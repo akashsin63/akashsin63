@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">"Hi there 👋 I am Akash Singh" </h2>
+
 # 💫 About Me:
 👩‍💻 Java Developer & DSA Problem Solver 🚀<br><ul>
 <li>800+ DSA problems conquered: I've tackled 600 on Scaler and 200+ on LeetCode, constantly honing my problem-solving skills.</li>
