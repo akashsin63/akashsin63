@@ -9,7 +9,7 @@ Let's connect and create something incredible together! 🤝 #JavaDev #ProblemSo
 <br>
 <br>
 <br>
-<img align="right" alt="latest batch" width="350" height="350" src="https://github.com/akashsin63/akashsin63/blob/main/CPT2307241359-249x245.gif" >
+<img align="right" alt="latest batch" width="300" src="https://github.com/akashsin63/akashsin63/blob/main/CPT2307241359-249x245.gif" >
 
 ## 🌐 Socials:
 <p align="left">
